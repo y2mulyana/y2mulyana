@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @y2mulyana
-- 👀 I’m interested in data scraping
+- 👀 I’m interested in data scraping / Python related stuf
 - 🌱 I’m currently learning Pyhton/Data scraping
-- 💞️ I’m looking to collaborate on web scraping project
+- 💞️ I’m looking to collaborate on web scraping project or Python related project
 - 📫 How to reach me ...
 
 <!---

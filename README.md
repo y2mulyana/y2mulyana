@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @y2mulyana
 - 👀 I’m interested in data scraping / Python related stuf
-- 🌱 I’m currently learning Pyhton/Data scraping
-- 💞️ I’m looking to collaborate on web scraping project or Python related project
+- 🌱 I’m currently learning Pyhton/Data scraping & react.js + tailwind
+- 💞️ I’m looking to collaborate on web scraping project, other Python related project or frontend project (React.js + Tailwind)
 - 📫 How to reach me ...
 
 <!---
